@@ -1,4 +1,4 @@
-.bloque {
+.columna {
 
     background-color: tomato;
     color: white;
@@ -7,7 +7,13 @@
     margin: 10px;
 }
 
-
-
-
-}
+.bloques { 
+    display: flex;
+    
+    }
+    a{
+        background-color: rgb(71, 184, 255);
+        color: white;
+        margin: 10px;
+    
+    }
