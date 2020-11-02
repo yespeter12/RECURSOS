@@ -11,13 +11,8 @@
     display: flex;
     
     }
-    a{
-        background-color: rgb(71, 184, 255);
-        color: white;
-        margin: 10px;
-    
-    }
-
+   
+   
     .titulo {
 
 color: blue;
@@ -26,6 +21,14 @@ width: 90%;
 margin: 5px;
 padding: 5px;
 
-
-
     }
+
+.YOUTUBE {
+
+color: white;
+padding: 20px;
+margin: 5px;
+width: 50%;
+text-decoration: none;
+
+}
